@@ -2,7 +2,7 @@
 ## T-1: Implement Admin/User Signup Page
 This feature includes a signup form with logo, name, email, password, confirm password, and user type (Admin/User). Validation is handled for unique email, password strength, matching passwords, and required fields. On successful signup, user data is saved, a confirmation email is sent, and the user is redirected to the dashboard.
 
-##T-2: Implement Admin/User Signin Page
+## T-2: Implement Admin/User Signin Page
 This feature includes a login form with email, password, remember me checkbox, Signin button, Signup link, and Forgot Password link. Validation is handled for correct email/password, empty fields, and email format. On successful login, the user is redirected to the dashboard. The system also supports 'remember me' functionality to keep the user logged in for future visits.
 
 ## T-3: Implement Admin/User Forgot Password Page
