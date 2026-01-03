@@ -24,3 +24,6 @@ Users can submit complaints. Admins can review and resolve them, and the system 
 
 T-19: Coin Balance
 Users can view their coin balance and transaction history to see earned and spent coins.
+
+T-20: Book Recommendations
+Users see recommended books based on their interests. Clicking a book opens its details.
