@@ -1,0 +1,29 @@
+T-11: User Notifications
+Users receive notifications about orders, messages, approvals, and updates. They can see unread counts, mark notifications as read, delete them, and open related pages.
+
+T-12: Wishlist
+Users can add books to their wishlist and remove them anytime. The wishlist helps users remember books they want to buy later.
+
+T-13: Edit Profile
+Users can update their name, email, and profile picture. After saving, the system shows a success message.
+
+T-14: Change Password
+Users can change their password by entering the current and new password. The system checks correctness and confirms the change.
+
+T-15: Add Review
+Users can give star ratings and write reviews for books. A message is shown after submitting the review.
+
+T-16: View Reviews
+Users can see all reviews for a book and sort them by newest or rating.
+
+T-17: Library Verification (Admin)
+Admins can approve or reject library requests. The system shows the verification status.
+
+T-18: User Complaints
+Users can submit complaints. Admins can review and resolve them, and the system shows the current status.
+
+T-19: Coin Balance
+Users can view their coin balance and transaction history to see earned and spent coins.
+
+T-20: Book Recommendations
+Users see recommended books based on their interests. Clicking a book opens its details.
