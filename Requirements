@@ -12,3 +12,6 @@ Users can change their password by entering the current and new password. The sy
 
 T-15: Add Review
 Users can give star ratings and write reviews for books. A message is shown after submitting the review.
+
+T-16: View Reviews
+Users can see all reviews for a book and sort them by newest or rating.
