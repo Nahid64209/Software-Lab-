@@ -3,3 +3,6 @@ Users receive notifications about orders, messages, approvals, and updates. They
 
 T-12: Wishlist
 Users can add books to their wishlist and remove them anytime. The wishlist helps users remember books they want to buy later.
+
+T-13: Edit Profile
+Users can update their name, email, and profile picture. After saving, the system shows a success message.
