@@ -18,3 +18,6 @@ Users can see all reviews for a book and sort them by newest or rating.
 
 T-17: Library Verification (Admin)
 Admins can approve or reject library requests. The system shows the verification status.
+
+T-18: User Complaints
+Users can submit complaints. Admins can review and resolve them, and the system shows the current status.
