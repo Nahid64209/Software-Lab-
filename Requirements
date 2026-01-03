@@ -6,3 +6,6 @@ Users can add books to their wishlist and remove them anytime. The wishlist help
 
 T-13: Edit Profile
 Users can update their name, email, and profile picture. After saving, the system shows a success message.
+
+T-14: Change Password
+Users can change their password by entering the current and new password. The system checks correctness and confirms the change.
