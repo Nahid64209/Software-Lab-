@@ -15,3 +15,6 @@ Users can give star ratings and write reviews for books. A message is shown afte
 
 T-16: View Reviews
 Users can see all reviews for a book and sort them by newest or rating.
+
+T-17: Library Verification (Admin)
+Admins can approve or reject library requests. The system shows the verification status.
