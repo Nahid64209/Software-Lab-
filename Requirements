@@ -21,3 +21,6 @@ Admins can approve or reject library requests. The system shows the verification
 
 T-18: User Complaints
 Users can submit complaints. Admins can review and resolve them, and the system shows the current status.
+
+T-19: Coin Balance
+Users can view their coin balance and transaction history to see earned and spent coins.
