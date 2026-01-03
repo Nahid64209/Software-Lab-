@@ -1,2 +1,5 @@
 T-11: User Notifications
 Users receive notifications about orders, messages, approvals, and updates. They can see unread counts, mark notifications as read, delete them, and open related pages.
+
+T-12: Wishlist
+Users can add books to their wishlist and remove them anytime. The wishlist helps users remember books they want to buy later.
