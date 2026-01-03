@@ -9,3 +9,6 @@ Users can update their name, email, and profile picture. After saving, the syste
 
 T-14: Change Password
 Users can change their password by entering the current and new password. The system checks correctness and confirms the change.
+
+T-15: Add Review
+Users can give star ratings and write reviews for books. A message is shown after submitting the review.
